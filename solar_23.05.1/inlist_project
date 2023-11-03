@@ -69,12 +69,9 @@
     
 
   ! starting specifications
-    initial_mass = 1.07
-    !https://arxiv.org/pdf/astro-ph/0210128.pdf
-
-    initial_y = 0.274
-    initial_z = 0.015
-    !da wikipedia mesmo
+    initial_mass = 1.0 ! in Msun units
+    initial_y = 0.28 ! fill here
+    initial_z = 0.02 ! fill here
 
   ! overshoot parameters
     overshoot_scheme(1) = 'exponential'
@@ -86,7 +83,7 @@
 
   ! when to stop
 
-    max_age = 4.603d9
+    max_age = 4.6d9 ! fill here
 
     ! Below are other common ways of defining stopping conditions
 
