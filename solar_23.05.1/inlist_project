@@ -86,7 +86,7 @@
 
   ! when to stop
 
-    max_age = ! fill here
+    max_age = 4.603d9
 
     ! Below are other common ways of defining stopping conditions
 
