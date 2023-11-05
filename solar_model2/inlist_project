@@ -53,7 +53,7 @@
 
   ! kap_file_prefix = 'OP_gs98'
   ! kap_lowT_prefix = 'lowT_fa05_gs98'
-  kap_file_prefix = 'OP_a09_nans_removed_by_hand'
+  kap_file_prefix = 'a09'
   kap_lowT_prefix = 'lowT_fa05_a09p'
 
 / ! end of kap namelist
